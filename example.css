@@ -1,0 +1,10 @@
+/*CSS Version of example.less*/
+#header {
+    width: 10px;
+    height: 20px;
+  }
+/*CSS Version Of example.*/
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #333;
+}
